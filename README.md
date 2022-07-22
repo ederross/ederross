@@ -1,9 +1,9 @@
-# 😎 Hey, Who am I?
+# 👽 Hey, Who am I?
 🤌 I'm a **Frontend** developer. Currently I'm working as a Web and Mobile Developer at Wigoo Digital [**Wigoo Digital**](https://wigoo.com.br). 🚀
 
-💍 Loving **TypeScript**
+❣️ Loving **TypeScript**
 
-💻 Solving bugs since **2017**
+💍 Solving bugs since **2017**
 
 🔥 In search of new knowledge
 

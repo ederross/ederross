@@ -1,6 +1,5 @@
 # 😎 Hey, Who am I?
-
-🤌 I'm a **Frontend** developer
+🤌 I'm a **Frontend** developer. Currently I'm working as a Web and Mobile Developer at Wigoo Digital [**Wigoo Digital**](https://wigoo.com.br). 🚀
 
 💍 Loving **TypeScript**
 
@@ -12,17 +11,12 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ederross) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-0077B5?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ederross.dev) 
 
-## &#x1f4c8; Statistics!
-
-<br>
-
-<a href="https://github.com/ederross">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederross&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ederross">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ederross&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Eder Statistics" />
-</a>
+#### My current tools 
+📲 Front-end Mobile with React Native  
+🌎 Front-end Web with React  
+📡 Back-end with Node.js  
+🛠️ Typescript  
+🧰 And more...  
 
 ## 💼 Skills
 

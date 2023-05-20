@@ -1,5 +1,5 @@
 # 👽 Hey, Who am I?
-🤌 I'm a **Frontend** developer. Currently I'm working as a Web and Mobile Developer at Wigoo Digital [**Wigoo Digital**](https://wigoo.com.br). 🚀
+🤌 I'm a **Frontend** developer. 🚀
 
 ❣️ Loving **TypeScript**
 
